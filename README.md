@@ -3,7 +3,6 @@
 
 HealthPulse is a modern, responsive web application designed to help you track your health and wellness journey. Log your workouts, monitor your nutrition, keep a pulse on your mood, and set goals to stay motivated.
 
-This application was built with Firebase Studio.
 
 ##  Features
 
