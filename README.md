@@ -9,7 +9,7 @@ HealthPulse is a modern, responsive web application designed to help you track y
 *   **Interactive Dashboard**: Get a quick overview of your key health metrics, including total workouts, calories burned, and active goals.
 *   **Activity Logging**: Easily add new entries for workouts, meals, and mood, with the ability to add detailed notes for your gym sessions.
 *   **Goal Setting**: Define and track your health objectives to stay on track.
-*   **Data Visualization**: Beautiful charts provide insights into your activity trends over time, including daily and weekly views.
+*   **Data Visualization**: Beautiful charts provide insights into your activity trends over time, including daily and weekly views..
 *   **Gym Schedule**: A handy card that displays a sample weekly workout plan.
 *   **Inspiration Cards**: Get a daily dose of encouragement with a "Word of the Day" Bible verse and a "Daily Motivation" quote.
 *   **Light & Dark Mode**: A sleek and modern UI that adapts to your preferred theme.
